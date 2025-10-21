@@ -35,6 +35,7 @@ export function App() {
                 template.
             </p>
             <span>Joshua Maier</span>
+            <div>Mianmian Bao</div>
         </>
     );
 }

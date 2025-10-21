@@ -33,6 +33,7 @@ export function App() {
                 Click on the Vite and React logos to learn more. Final project
                 template.
             </p>
+            <span>Joshua Maier</span>
         </>
     );
 }
